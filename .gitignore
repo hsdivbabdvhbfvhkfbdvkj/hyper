@@ -1,0 +1,5 @@
+.env
+node_modules/
+npm-debug.log*
+site-settings.json
+site-settings.json.*.tmp
