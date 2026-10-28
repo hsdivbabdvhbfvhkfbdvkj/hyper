@@ -1,0 +1,27 @@
+{
+  "id": "/",
+  "name": "Hyper$ex",
+  "short_name": "Hyper$ex",
+  "description": "Acceso para abrir Free Fire Normal o MAX en Android.",
+  "lang": "es",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050308",
+  "theme_color": "#ff32d2",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
